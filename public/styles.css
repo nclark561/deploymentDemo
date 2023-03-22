@@ -2,6 +2,10 @@
     font-family: sans-serif;
 }
 
+body {
+    background-color: rgb(190, 60, 230);
+}
+
 button {
     background-color: black;
     color: white;
